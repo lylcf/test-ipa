@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/lylcf/test-ipa/master/zx_yuntu.ipa</string>
+					<string>https://raw.githubusercontent.com/lylcf/test-ipa/master/zx_yuntu_z.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -35,7 +35,7 @@
 				<key>bundle-identifier</key>
 				<string>com.zxhlrj.yuntu</string>
 				<key>bundle-version</key>
-				<string>1.0.5</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
